@@ -31,4 +31,4 @@ $ python main.py --dataset quake_10x_spleen --epochs 300
 For visualizing the results, we provide visualization scripts in the `visualization` folder. These scripts can be directly run to generate plots that help analyze the performance of the imputation method across different datasets and metrics.
 
 ## Who do I talk to?
-* Have any questions or issues related to the repository, please contact: Dr. Binhua Tang (bh.tang@outlook.com) or Xinyu Gao (2415622926@qq.com).
+* Have any questions or issues related to the repository, please contact: Dr. Binhua Tang (bh.tang@outlook.com).
